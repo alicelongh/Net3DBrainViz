@@ -1,7 +1,7 @@
 # network-visualization
 scripts I created/used for visualisation of networks
 
-1) 3D viz of arrays of values using visbrain:
+## 3D viz of arrays of values using visbrain:
 
 - using BCI-NET fork of visbrain: install https://github.com/BCI-NET/visbrain with > pip install git+https://github.com/BCI-NET/visbrain.git
 
