@@ -4,8 +4,7 @@
 - using BCI-NET fork of visbrain: install https://github.com/BCI-NET/visbrain with > pip install git+https://github.com/BCI-NET/visbrain.git
 
 - using mni152 brain template: install template brain data  https://drive.google.com/file/d/1vCSQC7csXBY8eOBOEEhXqXqcp5qVj4jT/view
-*I don’t remember where it should be installed. Initially I had it in /Users/alice.longhena/visbrain_data/
-  
+
 - insert the path to NIFTI files at the scale you are working on, NIFTI files generated with easy_lausanne https://github.com/mattcieslak/easy_lausanne.git (Lausanne2008 parcellation) and free surfer
 
 - modify 3DbrainViz-Lausanne2008.py with the paths to the input array and output path and file
